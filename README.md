@@ -35,6 +35,6 @@ Possible refainments to this work can be:
 - **analysis_by_US_states.ipynb**: Federal States Sentiment Analysis
 
 ## Contributors
--Chiara Perugini
--Davide Delfino 
--Elia Gioele Larcinese 
+- Chiara Perugini
+- Davide Delfino 
+- Elia Gioele Larcinese 
